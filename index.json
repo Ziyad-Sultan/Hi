@@ -1,0 +1,20 @@
+  {
+    "name": "Tachiyomi: Manga Slayer",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaslayer",
+    "apk": "tachiyomi-ar.mangaslayer-v1.4.58.apk",
+    "lang": "ar",
+    "code": 58,
+    "version": "1.4.58",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Slayer",
+        "lang": "ar",
+        "id": "3874690125387469852",
+        "baseUrl": "https://mangaslayer.com",
+        "versionId": 0
+      }
+    ]
+  }
